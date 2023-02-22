@@ -1,0 +1,8 @@
+*/bin
+*/obj
+*/.vs
+*/.vscode
+*/.idea
+*/__pycache__
+*/venv
+*/node_modules
